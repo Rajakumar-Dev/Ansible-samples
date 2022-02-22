@@ -1,4 +1,4 @@
 # Ansible-samples
 
 Play book to install LAMP stack and start the service
-Inlucdes handlers implementation as well 
+Includes handlers implementation as well 
