@@ -1,0 +1,8 @@
+---
+# tasks file for vim
+- name: Install required packages
+  package:
+    name: "{{ install_packages }}"
+    state: present
+  become: true 
+  
